@@ -36,7 +36,7 @@ Plotted distribution of continous and categorial variables. Imputed missing valu
 
 ![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/price_histogram.PNG)
 ![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/model_dist.PNG)
-![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/pivot.PNG)
+![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/pivot.PNG "price of car")
 ![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/correlation.PNG)
 
 ## Model Building (model_building.ipnyb)
