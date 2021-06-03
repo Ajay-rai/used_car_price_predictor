@@ -39,7 +39,7 @@ Plotted distribution of continous and categorial variables. Imputed missing valu
 ![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/pivot.PNG)
 ![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/correlation.PNG)
 
-## Model Building
+## Model Building (model_building.ipnyb)
 * Transformed the categorical variables into binary format using One-Hot encoding.
 * Split the dataset into 80:20 for train and test respectively.
 * Used MAE (Mean Absolute Error) to evaluate model. MAE is good with outliers.
