@@ -32,7 +32,7 @@ Cleaned the raw data and made new columns with proper assignment of variables.
 * Counted number of features such as Bluetooth, keyless entry, type of wheel, heated seats etc and saved into one column.
 
 ## EDA (EDA.ipnyb)
-Plotted distribution of continous and categorial variables. Imputed missing values and removed outliers. Highlights from EDA notebook area as folows:
+Plotted distribution of continous and categorial variables. Imputed missing values and removed outliers. Highlights from EDA notebook are as folows:
 
 ![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/price_histogram.PNG)
 ![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/model_dist.PNG)
