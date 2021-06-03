@@ -48,7 +48,7 @@ Plotted distribution of continous and categorial variables. Imputed missing valu
   * Ridge regression - To prevent overfitting.
   * Lasso regression - Effective because data is sparse for many categorical variables.
   * Random Forest - Could be a good fit for sparse data type.
-  * XGBoost - Most advanced algorithm for sparse data
+  * XGBoost - Most advanced algorithm for sparse data. Also, hypertuned the parameters using GridsearchCV.
 
 ### Model performance
 XGBoost performed the best:
