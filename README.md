@@ -33,10 +33,10 @@ Cleaned the raw data and made new columns with proper assignment of variables.
 
 ## EDA (EDA.ipnyb)
 Plotted distribution of continous and categorial variables. Imputed missing values and removed outliers. Highlights from EDA notebook area as folows:
-![alt text](https://github.com/Ajay-rai/used_car_price_predictor/tree/master/images/price_histogram.PNG)
-![alt text](https://github.com/Ajay-rai/used_car_price_predictor/tree/master/images/model_dist.PNG)
-![alt text](https://github.com/Ajay-rai/used_car_price_predictor/tree/master/images/pivot.PNG)
-![alt text](https://github.com/Ajay-rai/used_car_price_predictor/tree/master/images/correlation.PNG)
+![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/price_histogram.PNG)
+![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/model_dist.PNG)
+![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/pivot.PNG)
+![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/correlation.PNG)
 
 ## Model Building
 * Transformed the categorial variables into binary format using One-Hot encoding.
@@ -58,11 +58,12 @@ XGBoost performed the best:
   * XGBoost: MAE = $4185
 
 ### Feature Importance
-![alt text](https://github.com/Ajay-rai/used_car_price_predictor/tree/master/images/feature.PNG)
+![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/feature.PNG)
 
-## Github rendering problem with jupyter notebook? 
-Use the link below and copy paste the git repositry link into it.
+## Future Work
+* To build flask API endpoint and host on a webserver. 
+
+### Github rendering problem with jupyter notebook? 
+Use the link below and copy paste the git repositry link into it for smooth experience.
 https://nbviewer.jupyter.org/
-## resources
-https://github.com/PlayingNumbers/ds_salary_proj
 
