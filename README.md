@@ -33,6 +33,7 @@ Cleaned the raw data and made new columns with proper assignment of variables.
 
 ## EDA (EDA.ipnyb)
 Plotted distribution of continous and categorial variables. Imputed missing values and removed outliers. Highlights from EDA notebook area as folows:
+
 ![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/price_histogram.PNG)
 ![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/model_dist.PNG)
 ![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/pivot.PNG)
