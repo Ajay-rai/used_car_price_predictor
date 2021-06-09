@@ -9,7 +9,7 @@
 * **Python Version:** 3.8.5
 * **Packages:** pandas, numpy, sklearn, xgboost, matplotlib, seaborn, selenium, nltk
 * **GitHub Repo Ref:** https://github.com/PlayingNumbers/ds_salary_proj
-
+* **Deployment Ref:** https://medium.com/@nutanbhogendrasharma/deploy-machine-learning-model-with-flask-on-heroku-cd079b692b1d
 ## Web Scraping (webscraper.ipynb)
 Scraped over 2000 car listing from cargurus.com using **selenium**. The following information were extracted from each listing:
 * Price of car
@@ -61,8 +61,15 @@ XGBoost performed the best:
 ### Feature Importance
 ![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/feature.PNG)
 
-## Future Work
-* To build flask API endpoint and host on a webserver. 
+### Productionization
+Built a Flask API endpoint and hosted on webserver using heroku. The following page takes user inputs and estimate the price of car. Refer this link to checkout deployment page: https://carpricechecker.herokuapp.com/
+
+![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/deployment.PNG)
+
+## Future Improvements
+* Pipeline can be created to streamline the process.
+* Automation of data collection to deployment can be done. This will update the prediction model for accurate predictions.
+* NLP can be used to get insight from description.
 
 ### Github rendering problem with jupyter notebook? 
 Use the link below and copy paste the git repository link into it for a smooth experience.
