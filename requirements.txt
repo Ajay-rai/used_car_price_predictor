@@ -7,3 +7,5 @@ MarkupSafe==2.0.1
 numpy>=1.20.2
 Werkzeug==1.0.1
 xgboost==1.4.2
+scikit-learn==0.24.2
+scipy==1.6.2
