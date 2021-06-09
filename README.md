@@ -61,7 +61,7 @@ XGBoost performed the best:
 ### Feature Importance
 ![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/feature.PNG)
 
-### Productionization
+## Productionization
 Built a Flask API endpoint and hosted on webserver using heroku. The following page takes user inputs and estimate the price of car. Refer this link to checkout deployment page: https://carpricechecker.herokuapp.com/
 
 ![alt text](https://github.com/Ajay-rai/used_car_price_predictor/blob/master/images/deployment.PNG)
