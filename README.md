@@ -71,7 +71,7 @@ Built a Flask API endpoint and hosted on webserver using heroku. The following p
 
 ## Conclusion and Future Recommendation
 * Average price of used cars listed in cargurus.com is ~$20K in California and NewYork.
-* Major factors that affect the pric of used cars is in following order: mileage > built year > gas mileage > features > color > engine > drivetrain 
+* Major factors that affect the price of used cars is in following order: mileage > built year > gas mileage > features > color > engine > drivetrain 
 * Pipeline can be implemented for data cleaning, EDA and model building to streamline the process.
 * Accuracy of model can be improved by selecting better features, variable transformation(skewed to normal distribution), and removal of more outliers.
 * NLP can be used to get insight from descriptions.
