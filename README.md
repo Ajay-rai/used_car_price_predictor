@@ -4,10 +4,12 @@
 * Cleaned data and engineered features (such as model, built year, mileage, details, and description) from raw data.
 * Performed EDA (exploratory data analysis) to handle missing values, remove outliers, transform variables, check correlation and shortlist variables for machine learning model building.
 * Optimized Linear, Lasso, Ridge, Random Forest, and XGBoost regressors using GridsearchCV to find the best model.
+* Deployed in Heroku cloud using Flask API endpoint. Made it available online for users to get an approximate price of the car. Link given below.
 
 ## Code and Resources Used
 * **Python Version:** 3.8.5
 * **Packages:** pandas, numpy, sklearn, xgboost, matplotlib, seaborn, selenium, nltk
+* **For Web Framework Requirements:** `pip install -r requirements.txt`
 * **GitHub Repo Ref:** https://github.com/PlayingNumbers/ds_salary_proj
 * **Deployment Ref:** https://medium.com/@nutanbhogendrasharma/deploy-machine-learning-model-with-flask-on-heroku-cd079b692b1d
 ## Web Scraping (webscraper.ipynb)
